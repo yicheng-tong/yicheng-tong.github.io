@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master student from [School of Computing](https://eecs.pku.edu.cn/), [National University of Singapore](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a master student from [School of Computing](https://comp.pku.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
