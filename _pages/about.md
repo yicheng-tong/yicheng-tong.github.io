@@ -6,7 +6,7 @@ subtitle: MS student, School of Computing, National University of Singapore
 
 profile:
   align: right
-  image: tyc.png
+  image: IMG_0747.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>📧 <a href="mailto:tong828@comp.nus.edu.sg">tong828@comp.nus.edu.sg</a></p>
