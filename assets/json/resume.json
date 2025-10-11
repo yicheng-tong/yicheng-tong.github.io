@@ -50,32 +50,19 @@
       "name": "Programming Languages",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "C",
-        "SQL"
-      ]
+      "keywords": ["Python", "C", "SQL"]
     },
     {
       "name": "Technologies & Tools",
       "level": "Intermediate",
       "icon": "fa-solid fa-tools",
-      "keywords": [
-        "Git",
-        "Docker",
-        "AWS",
-        "Jupyter Notebook"
-      ]
+      "keywords": ["Git", "Docker", "AWS", "Jupyter Notebook"]
     },
     {
       "name": "AI & Reinforcement Learning",
       "level": "Intermediate",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "AI Agents",
-        "Reinforcement Learning",
-        "Multi-Agent Systems",
-      ]
+      "keywords": ["AI Agents", "Reinforcement Learning", "Multi-Agent Systems"]
     }
   ],
   "languages": [
@@ -94,11 +81,7 @@
     {
       "name": "AI & Reinforcement Learning",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "AI Agents",
-        "Reinforcement Learning",
-        "Multi-Agent Systems",
-      ]
+      "keywords": ["AI Agents", "Reinforcement Learning", "Multi-Agent Systems"]
     }
   ],
   "references": [],
