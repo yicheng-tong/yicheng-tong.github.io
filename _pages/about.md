@@ -6,7 +6,7 @@ subtitle: MS student, School of Computing, National University of Singapore
 
 profile:
   align: right
-  image: IMG_0747.png
+  image: tong.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>📧 <a href="mailto:tong828@comp.nus.edu.sg">tong828@comp.nus.edu.sg</a></p>
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Yicheng Tong, an MS student in Computer Science at NUS. My main interests are AI Agents and Context Engineering. "I am currently a research intern supervised by [Prof. Bingsheng He](https://scholar.google.com.sg/citations?user=RogYLKYAAAAJ&hl=en). I am also collaborating with [Dr. Haofei](https://scholar.google.com/citations?user=YGDX46AAAAAJ&hl=zh-CN) and [Dr. Bobo Li](https://scholar.google.com/citations?user=90mnP8MAAAAJ&hl=en)
+Hi! I am Yicheng Tong, a MS student in Computer Science at NUS. My main interests are AI Agents and Context Engineering. I am currently a research intern supervised by [Prof. Bingsheng He](https://scholar.google.com.sg/citations?user=RogYLKYAAAAJ&hl=en). I am also collaborating with [Dr. Haofei](https://scholar.google.com/citations?user=YGDX46AAAAAJ&hl=zh-CN) and [Dr. Bobo Li](https://scholar.google.com/citations?user=90mnP8MAAAAJ&hl=en)
 
 You can find me on GitHub and OpenReview:
 

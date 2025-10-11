@@ -38,8 +38,7 @@
       "studyType": "Master of Computing",
       "startDate": "2025",
       "endDate": "2027",
-      "score": "",
-      "courses": ["Artificial Intelligence", "Machine Learning", "Reinforcement Learning", "NLP"]
+      "score": ""
     }
   ],
   "awards": [],
@@ -50,19 +49,19 @@
       "name": "Programming Languages",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python", "C", "SQL"]
+      "keywords": ["Python", "SQL"]
     },
     {
       "name": "Technologies & Tools",
       "level": "Intermediate",
       "icon": "fa-solid fa-tools",
-      "keywords": ["Git", "Docker", "AWS", "Jupyter Notebook"]
+      "keywords": ["Git", "Docker", "Jupyter Notebook"]
     },
     {
-      "name": "AI & Reinforcement Learning",
+      "name": "AI",
       "level": "Intermediate",
       "icon": "fa-solid fa-brain",
-      "keywords": ["AI Agents", "Reinforcement Learning", "Multi-Agent Systems"]
+      "keywords": ["AI Agents", "Multi-Agent Systems", "Context Engineering"]
     }
   ],
   "languages": [
@@ -79,9 +78,9 @@
   ],
   "interests": [
     {
-      "name": "AI & Reinforcement Learning",
+      "name": "AI",
       "icon": "fa-solid fa-robot",
-      "keywords": ["AI Agents", "Reinforcement Learning", "Multi-Agent Systems"]
+      "keywords": ["AI Agents", "Multi-Agent Systems", "Context Engineering"]
     }
   ],
   "references": [],
